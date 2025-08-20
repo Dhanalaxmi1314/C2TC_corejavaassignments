@@ -1,4 +1,4 @@
-package com.assignment.model;
+package com.dhanalaxmi.assignment.model;
 
 public class Book extends Item {
     private String author;

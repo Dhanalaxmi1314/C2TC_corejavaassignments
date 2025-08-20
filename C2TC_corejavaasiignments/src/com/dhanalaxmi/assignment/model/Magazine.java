@@ -1,4 +1,4 @@
-package com.assignment.model;
+package com.dhanalaxmi.assignment.model;
 
 public class Magazine extends Item {
     private int issueNumber;

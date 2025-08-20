@@ -1,5 +1,5 @@
 // File: com/assignment/model/Item.java
-package com.assignment.model;
+package com.dhanalaxmi.assignment.model;
 
 public class Item {
     private int id;
