@@ -1,11 +1,11 @@
-package com.dhanalaxmi.assignment.library;
+package inheritance.assignment.library;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.dhanalaxmi.assignment.model.Book;
-import com.dhanalaxmi.assignment.model.Item;
-import com.dhanalaxmi.assignment.model.Magazine;
+import inheritance.assignment.model.Book;
+import inheritance.assignment.model.Item;
+import inheritance.assignment.model.Magazine;
 
 public class Library {
     private List<Item> items;

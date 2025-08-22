@@ -1,4 +1,4 @@
-package com.dhanalaxmi.assignment.employees;
+package com.dhanalaxmi.assignment1.employees;
 
 /**
  * Developer class extending Employee.

@@ -10,7 +10,7 @@
 //	}
 //
 //}
-package com.dhanalaxmi.assignment.employees;
+package com.dhanalaxmi.assignment1.employees;
 
 /**
  * Base Employee class demonstrating use of access modifiers.

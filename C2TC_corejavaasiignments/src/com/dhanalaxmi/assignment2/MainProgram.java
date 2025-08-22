@@ -1,4 +1,4 @@
-package assignment;
+package com.dhanalaxmi.assignment2;
 
 
 public class MainProgram {

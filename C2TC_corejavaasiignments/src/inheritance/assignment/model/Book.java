@@ -1,4 +1,4 @@
-package com.dhanalaxmi.assignment.model;
+package inheritance.assignment.model;
 
 public class Book extends Item {
     private String author;

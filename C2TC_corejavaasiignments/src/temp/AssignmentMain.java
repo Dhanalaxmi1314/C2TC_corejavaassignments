@@ -1,8 +1,8 @@
 package temp;  // since you put it inside temp package
 
-import com.dhanalaxmi.assignment.employees.Manager;
-import com.dhanalaxmi.assignment.employees.Developer;
-import com.dhanalaxmi.assignment.utilities.EmployeeUtilities;
+import com.dhanalaxmi.assignment1.employees.Developer;
+import com.dhanalaxmi.assignment1.employees.Manager;
+import com.dhanalaxmi.assignment1.utilities.EmployeeUtilities;
 
 public class AssignmentMain {
     public static void main(String[] args) {

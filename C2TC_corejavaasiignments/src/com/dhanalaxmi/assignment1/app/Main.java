@@ -1,8 +1,8 @@
-package com.dhanalaxmi.assignment.app;
+package com.dhanalaxmi.assignment1.app;
 
-import com.dhanalaxmi.assignment.library.Library;
-import com.dhanalaxmi.assignment.model.Book;
-import com.dhanalaxmi.assignment.model.Magazine;
+import inheritance.assignment.library.Library;
+import inheritance.assignment.model.Book;
+import inheritance.assignment.model.Magazine;
 
 public class Main {
     public static void main(String[] args) {

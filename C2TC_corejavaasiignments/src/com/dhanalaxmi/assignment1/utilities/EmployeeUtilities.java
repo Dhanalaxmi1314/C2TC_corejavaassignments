@@ -1,7 +1,7 @@
-package com.dhanalaxmi.assignment.utilities;
+package com.dhanalaxmi.assignment1.utilities;
 
 
-import com.dhanalaxmi.assignment.employees.Employee;
+import com.dhanalaxmi.assignment1.employees.Employee;
 
 /**
  * Utility class for Employee operations.

@@ -1,4 +1,4 @@
-package com.dhanalaxmi.assignment.bankingsystem;
+package com.dhanalaxmi.assignment3;
 
 public class Transaction {
     private final double transactionFee = 1.5; // fixed fee

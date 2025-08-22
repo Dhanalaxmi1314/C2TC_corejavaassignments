@@ -1,5 +1,5 @@
 
-package com.dhanalaxmi.assignment.bankingsystem;
+package com.dhanalaxmi.assignment3;
 
 public abstract class Account {
     protected double balance;
