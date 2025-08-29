@@ -1,4 +1,4 @@
-package com.dhanalaxmi.assignment6;
+package taskscheduler_assignment;
 
 @FunctionalInterface
 public interface Task {

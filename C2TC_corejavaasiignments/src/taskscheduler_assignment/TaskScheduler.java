@@ -1,4 +1,4 @@
-package com.dhanalaxmi.assignment6;
+package taskscheduler_assignment;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
